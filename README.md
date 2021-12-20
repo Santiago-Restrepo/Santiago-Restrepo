@@ -20,7 +20,7 @@
 <h2>Contact</h2>
 
 #### learn more about me at **[santiagorestrepo.com](https://twitter.com/algundiasanti)** or in my social networks
-
+<br>
 <p>
 <a href="https://twitter.com/algundiasanti"> <img src="https://shields.io/badge/twitter-white?logo=twitter&style=for-the-badge" /> </a> 
 <a href="https://www.instagram.com/algundiasanti/"> <img src="https://shields.io/badge/instagram-gray?logo=instagram&style=for-the-badge" /> </a>
