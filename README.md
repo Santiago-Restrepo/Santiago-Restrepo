@@ -8,7 +8,7 @@
 <h2>About me</h2>
 
 - 💻 I’m currently learning about Ethical Hacking and React JS
-- 🖌 I develop freelance projects with my team using all the technologies required by the clients.
+- 🖌 I develop freelance projects with my team using all the technological resources required by the costumer
 - ✍ I'm currently studying computer engineering
 
 <h3>I'm good at</h3>
