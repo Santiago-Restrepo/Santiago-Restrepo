@@ -28,5 +28,5 @@
 <p>
 <a href="https://twitter.com/algundiasanti"> <img src="https://shields.io/badge/twitter-white?logo=twitter&style=for-the-badge" /> </a> 
 <a href="https://www.instagram.com/algundiasanti/"> <img src="https://shields.io/badge/instagram-gray?logo=instagram&style=for-the-badge" /> </a>
-<a href="https://www.linkedin.com/in/algundiasanti/"> <img src="https://shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" /> </a> 
+<a href="https://www.linkedin.com/in/santiago-restrepo-a853971a0/"> <img src="https://shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" /> </a> 
 </p>
