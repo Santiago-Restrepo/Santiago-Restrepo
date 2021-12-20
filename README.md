@@ -19,22 +19,14 @@
 
 <h2>Contact</h2>
 
+
+#### learn more about me in my social networks
+<!--
 #### learn more about me at **[santiagorestrepo.com](https://twitter.com/algundiasanti)** or in my social networks
+-->
 <br>
 <p>
 <a href="https://twitter.com/algundiasanti"> <img src="https://shields.io/badge/twitter-white?logo=twitter&style=for-the-badge" /> </a> 
 <a href="https://www.instagram.com/algundiasanti/"> <img src="https://shields.io/badge/instagram-gray?logo=instagram&style=for-the-badge" /> </a>
 <a href="https://www.linkedin.com/in/algundiasanti/"> <img src="https://shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge" /> </a> 
 </p>
-<!--
-
-
-
-.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
