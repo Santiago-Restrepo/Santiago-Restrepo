@@ -1,7 +1,7 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
-#### My name is Santiago, I'm a web developer based on Medellín <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> <img src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e8-1f1f4.png" width="40">
+#### My name is Santiago, I'm a web developer from Medellín <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> <img src="https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e8-1f1f4.png" width="40">
 
 
 
@@ -19,7 +19,7 @@
 
 <h2>Contact</h2>
 
-#### learn more about me at **[santiagorestrepo.com](https://santiagorestrepo.com)** or in my social networks
+#### learn more about me at **[santiagorestrepo.com](https://twitter.com/algundiasanti)** or in my social networks
 
 <p>
 <a href="https://twitter.com/algundiasanti"> <img src="https://shields.io/badge/twitter-white?logo=twitter&style=for-the-badge" /> </a> 
