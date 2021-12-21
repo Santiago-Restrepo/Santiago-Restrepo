@@ -13,10 +13,22 @@
 
 <h3>I'm good at</h3>
 
-| Frontend      | Backend       | Extra |
-| :-------------: |:-------------:| :-----:|
-| <img src="https://shields.io/badge/html-orange?logo=html5&style=for-the-badge"> <img src="https://shields.io/badge/css-blue?logo=css3&style=for-the-badge"> <img src="https://shields.io/badge/sass-white?logo=sass&style=for-the-badge"> <img src="https://shields.io/badge/pug-brown?logo=pug&logoColor=white&style=for-the-badge"> <img src="https://shields.io/badge/javaScript-black?logo=javaScript&style=for-the-badge"> <img src="https://shields.io/badge/webPack-gray?logo=webpack&style=for-the-badge"> <img src="https://shields.io/badge/git-white?logo=git&style=for-the-badge"> <img src="https://shields.io/badge/npm-red?logo=npm&style=for-the-badge"> <img src="https://shields.io/badge/react JS-black?logo=react&style=for-the-badge">| <img src="https://shields.io/badge/mongoDB-darkgreen?logo=mongodb&style=for-the-badge"> <img src="https://shields.io/badge/contentful-white?logo=contentful&style=for-the-badge"> <img src="https://shields.io/badge/firebase-blue?logo=firebase&style=for-the-badge"> <img src="https://shields.io/badge/vercel-black?logo=vercel&style=for-the-badge">| <img src="https://shields.io/badge/python-white?logo=python&style=for-the-badge"> <img src="https://shields.io/badge/linux-black?logo=linux&style=for-the-badge">|
+<div align="center">
 
+| Frontend |
+| :-------:|
+| <img src="https://shields.io/badge/html-orange?logo=html5&style=for-the-badge"> <img src="https://shields.io/badge/css-blue?logo=css3&style=for-the-badge"> <img src="https://shields.io/badge/sass-white?logo=sass&style=for-the-badge"> <img src="https://shields.io/badge/pug-brown?logo=pug&logoColor=white&style=for-the-badge"> <img src="https://shields.io/badge/javaScript-black?logo=javaScript&style=for-the-badge"> <img src="https://shields.io/badge/webPack-gray?logo=webpack&style=for-the-badge"> <img src="https://shields.io/badge/git-white?logo=git&style=for-the-badge"> <img src="https://shields.io/badge/npm-red?logo=npm&style=for-the-badge"> <img src="https://shields.io/badge/react JS-black?logo=react&style=for-the-badge"> |
+
+| Backend   |
+| :-------: |
+| <img src="https://shields.io/badge/mongoDB-darkgreen?logo=mongodb&style=for-the-badge"> <img src="https://shields.io/badge/contentful-white?logo=contentful&style=for-the-badge"> <img src="https://shields.io/badge/firebase-blue?logo=firebase&style=for-the-badge"> <img src="https://shields.io/badge/vercel-black?logo=vercel&style=for-the-badge">|
+
+| extra |
+| :----: |
+|<img src="https://shields.io/badge/python-white?logo=python&style=for-the-badge"> <img src="https://shields.io/badge/linux-black?logo=linux&style=for-the-badge">||
+
+  
+</div>
 <h2>Contact</h2>
 
 
