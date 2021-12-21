@@ -20,9 +20,9 @@
 <h2>Contact</h2>
 
 
-#### learn more about me in my social networks
+#### Learn more about me in my social networks
 <!--
-#### learn more about me at **[santiagorestrepo.com](https://twitter.com/algundiasanti)** or in my social networks
+#### Learn more about me at **[santiagorestrepo.com](https://twitter.com/algundiasanti)** or in my social networks
 -->
 <br>
 <p>
