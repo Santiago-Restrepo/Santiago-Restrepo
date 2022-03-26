@@ -7,7 +7,7 @@
 
 <h2>About me</h2>
 
-- 💻 I’m currently learning about Ethical Hacking and React JS
+- 💻 I’m currently learning about Ethical Hacking and NEXT JS
 - 🖌 I develop freelance projects with my team using all the technological resources required by the costumer
 - ✍ I'm currently studying computer engineering
 
