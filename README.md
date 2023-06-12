@@ -9,7 +9,7 @@
 
 - 💻 I’m currently learning about Ethical Hacking and NEXT JS
 - 🖌 I develop freelance projects with my team using all the technological resources required by the costumer
-- 👜 I'm also the web developer of <a href="https://pytcolombia.com/">PYT Colombia</a>
+- 👜 I'm also the web developer of <a href="https://www.linkedin.com/company/aba-tech/mycompany/">ABA Tech</a>
 - ✍ I'm currently studying computer engineering
 
 <h3>I'm good at</h3>
@@ -22,7 +22,7 @@
 
 | Backend   |
 | :-------: |
-| <img src="https://shields.io/badge/mongoDB-darkgreen?logo=mongodb&style=for-the-badge"> <img src="https://shields.io/badge/contentful-white?logo=contentful&style=for-the-badge"> <img src="https://shields.io/badge/firebase-blue?logo=firebase&style=for-the-badge"> <img src="https://shields.io/badge/vercel-black?logo=vercel&style=for-the-badge">|
+| <img src="https://shields.io/badge/express-black?logo=express&style=for-the-badge"> <img src="https://shields.io/badge/mongoDB-darkgreen?logo=mongodb&style=for-the-badge"> <img src="https://shields.io/badge/contentful-white?logo=contentful&style=for-the-badge"> <img src="https://shields.io/badge/firebase-blue?logo=firebase&style=for-the-badge"> <img src="https://shields.io/badge/vercel-black?logo=vercel&style=for-the-badge">|
 
 | extra |
 | :----: |
