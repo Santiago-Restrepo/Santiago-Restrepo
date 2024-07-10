@@ -9,7 +9,7 @@
 
 - 💻 I’m currently learning about Ethical Hacking and NEXT JS
 - 🖌 I develop freelance projects with my team using all the technological resources required by the costumer
-- 👜 I'm also the web developer of <a href="https://www.linkedin.com/company/aba-tech/mycompany/">ABA Tech</a>
+- 👜 I'm also backend engineer at <a href="https://www.linkedin.com/company/aba-tech/mycompany/">ABA Tech</a>
 - ✍ I'm currently studying computer engineering
 
 <h3>I'm good at</h3>
