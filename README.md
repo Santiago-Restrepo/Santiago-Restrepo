@@ -7,10 +7,10 @@
 
 <h2>About me</h2>
 
-- 💻 I’m currently learning about Ethical Hacking and NEXT JS
-- 🖌 I develop freelance projects with my team using all the technological resources required by the costumer
-- 👜 I'm also backend engineer at <a href="https://www.linkedin.com/company/aba-tech/mycompany/">ABA Tech</a>
-- ✍ I'm currently studying computer engineering
+- 💻 I’m currently learning about Data Engineering
+- 🖌 I develop freelance projects
+- 👜 I'm also Fullstack developer at <a href="https://www.linkedin.com/company/aba-tech/mycompany/">ABA Tech</a>
+- ✍ I'm computer engineer
 
 <h3>I'm good at</h3>
 
