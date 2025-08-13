@@ -9,8 +9,8 @@
 
 - 💻 I’m currently learning about Data Engineering
 - 🖌 I develop freelance projects
-- 👜 I'm also Fullstack developer at <a href="https://www.linkedin.com/company/aba-tech/mycompany/">ABA Tech</a>
-- ✍ I'm computer engineer
+- 👜 I'm also Fullstack developer at <a href="https://www.linkedin.com/company/growth-acceleration-partners/">Growth Acceleration Partners</a>
+- ✍ I'm a software engineer
 
 <h3>I'm good at</h3>
 
